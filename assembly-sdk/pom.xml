@@ -109,7 +109,7 @@
                                 <artifactItem>
                                     <groupId>com.codenvy.resources</groupId>
                                     <artifactId>che-tomcat8-slf4j-logback</artifactId>
-                                    <version>${version.resource-bundle}</version>
+                                    <version>${che.tomcat.version}</version>
                                     <type>zip</type>
                                     <overWrite>false</overWrite>
                                 </artifactItem>
@@ -127,7 +127,7 @@
                                 <artifactItem>
                                     <groupId>com.codenvy.resources</groupId>
                                     <artifactId>che-tomcat8-slf4j-logback</artifactId>
-                                    <version>${version.resource-bundle}</version>
+                                    <version>${che.tomcat.version}</version>
                                     <type>zip</type>
                                     <overWrite>true</overWrite>
                                 </artifactItem>
